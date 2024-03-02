@@ -14,7 +14,7 @@ Le projet a été fait en un peu moins de 2 semaines.
 
 ___________________________________________________________________
 
-Pour jouer au jeu, il suffit simplement d'executer main.py
+Pour jouer au jeu, executez main.py
 
 
 contrôle :
