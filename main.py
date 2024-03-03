@@ -1,8 +1,6 @@
 import pygame
 from donnee_grille import grille
 from interface import *
-import threading
-
 
 class Jeu:
     def __init__(self):
